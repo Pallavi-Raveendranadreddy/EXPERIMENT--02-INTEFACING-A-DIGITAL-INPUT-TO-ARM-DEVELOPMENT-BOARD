@@ -162,7 +162,11 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output  :
 
+CASE1:LED IS ON
+
 ![output](https://github.com/Nagajyothichinta/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/blob/d072460529804adabd6ac8761eff0eb66cde291e/WhatsApp%20Image%202023-03-27%20at%202.29.11%20PM%20(1).jpeg)
+
+CASE2:LED IS OFF
 
 ![output](https://github.com/Nagajyothichinta/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/blob/87787687176678e47a16d2fd6cd79c7b5e79fcd0/WhatsApp%20Image%202023-03-27%20at%202.29.11%20PM.jpeg)
 
